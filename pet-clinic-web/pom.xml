@@ -44,13 +44,6 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
-        <repository>
-            <uniqueVersion>false</uniqueVersion>
-            <id>Alex Hawley</id>
-            <name>Alex Hawley Repo</name>
-            <url>scm:git:git@github.com:asimo124/JavaSpring1.git</url>
-            <layout>default</layout>
-        </repository>
-    </distributionManagement>
+
+
 </project>
